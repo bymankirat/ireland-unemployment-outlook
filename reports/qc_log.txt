@@ -1,0 +1,13 @@
+Quality control log - 2026-10-11 09:48
+QC PASSED: 9 passed, 1 warnings, 0 failures
+
+[PASS] All 18 series present: 2 statistics x 3 age groups x 3 sexes
+[PASS] No missing months: 345 consecutive months, Jan 1998 to Sep 2026
+[PASS] No duplicate rows: 0 duplicates
+[PASS] Missing values: 0 of 6,210 values missing (0.00%)
+[PASS] Rates between 0% and 60%: 0 out of range
+[PASS] Counts not negative: 0 negative
+[PASS] Male + female close to both sexes (counts): largest gap 0.1% of the total (small gaps are normal: each series is seasonally adjusted separately)
+[PASS] 15-24 + 25-74 close to 15-74 (counts): largest gap 0.1% of the total (small gaps are normal: each series is seasonally adjusted separately)
+[WARN] No monthly jump above 1 pp (15-74 rate): 1 large jumps: Jan 2009
+[PASS] Data is recent: latest month September 2026 (40 days ago)
